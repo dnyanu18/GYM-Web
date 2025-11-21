@@ -1,6 +1,6 @@
 // src/pages/Contact.js
 import React from "react";
-import SectionTitle from "../components/SectionTitle";
+
 
 const Contact = () => {
   return (
